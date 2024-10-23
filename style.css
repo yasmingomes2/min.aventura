@@ -1,0 +1,21 @@
+boby{ 
+    background-color: blue; (233,233,233);
+    color: pink;
+    font-family:"oswald" ,sans-serif;
+    display:flex
+    align-items: cente;
+    height:700px;
+    margin:10px;
+}
+button{
+    background-color: blue(139, 99,174);
+    color: brown;
+font-family: "OSwald",sans-serif;
+
+} 
+.passo{ 
+     display: none;
+}
+.passo.ativo{
+      display: block;
+}
